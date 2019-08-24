@@ -1,1 +1,1 @@
-from .layers import GraphConv, GraphMaxPool, GraphAveragePool
+from .gcn_layers import GraphConv, GraphMaxPool, GraphAveragePool

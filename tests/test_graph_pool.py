@@ -5,7 +5,7 @@ import random
 import keras
 import numpy as np
 from keras_gcn import GraphMaxPool, GraphAveragePool
-from keras_gcn.layers import GraphPool
+from keras_gcn.gcn_layers import GraphPool
 
 
 class TestGraphPool(unittest.TestCase):
